@@ -11,6 +11,7 @@
 		3308DBA72CE67C6700A722B8 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3308DBA62CE67C6700A722B8 /* ContentView.swift */; };
 		3308DBA92CE67C7100A722B8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3308DBA82CE67C7100A722B8 /* Assets.xcassets */; };
 		3308DBAC2CE67C7100A722B8 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3308DBAB2CE67C7100A722B8 /* Preview Assets.xcassets */; };
+		3308DBB32CE67C9500A722B8 /* MultipeerManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3308DBB22CE67C9500A722B8 /* MultipeerManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		3308DBA62CE67C6700A722B8 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		3308DBA82CE67C7100A722B8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3308DBAB2CE67C7100A722B8 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		3308DBB22CE67C9500A722B8 /* MultipeerManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MultipeerManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				3308DBA42CE67C6700A722B8 /* GalkinHomework7App.swift */,
 				3308DBA62CE67C6700A722B8 /* ContentView.swift */,
+				3308DBB22CE67C9500A722B8 /* MultipeerManager.swift */,
 				3308DBA82CE67C7100A722B8 /* Assets.xcassets */,
 				3308DBAA2CE67C7100A722B8 /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3308DBA72CE67C6700A722B8 /* ContentView.swift in Sources */,
+				3308DBB32CE67C9500A722B8 /* MultipeerManager.swift in Sources */,
 				3308DBA52CE67C6700A722B8 /* GalkinHomework7App.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -272,7 +276,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"GalkinHomework7/Preview Content\"";
-				DEVELOPMENT_TEAM = DP23FM3236;
+				DEVELOPMENT_TEAM = 5LR53YT9ES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -301,7 +305,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"GalkinHomework7/Preview Content\"";
-				DEVELOPMENT_TEAM = DP23FM3236;
+				DEVELOPMENT_TEAM = 5LR53YT9ES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
